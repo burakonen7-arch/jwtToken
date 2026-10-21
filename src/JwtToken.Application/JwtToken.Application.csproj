@@ -1,0 +1,4 @@
+<Project Sdk="Microsoft.NET.Sdk">
+<ItemGroup><ProjectReference Include="../JwtToken.Domain/JwtToken.Domain.csproj" /></ItemGroup>
+<ItemGroup></ItemGroup>
+</Project>

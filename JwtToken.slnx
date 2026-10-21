@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/JwtToken.Api/JwtToken.Api.csproj" />
+    <Project Path="src/JwtToken.Application/JwtToken.Application.csproj" />
+    <Project Path="src/JwtToken.Domain/JwtToken.Domain.csproj" />
+    <Project Path="src/JwtToken.Infrastructure/JwtToken.Infrastructure.csproj" />
+  </Folder>
+</Solution>

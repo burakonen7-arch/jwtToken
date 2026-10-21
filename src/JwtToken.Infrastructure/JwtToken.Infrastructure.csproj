@@ -1,0 +1,5 @@
+<Project Sdk="Microsoft.NET.Sdk">
+<ItemGroup><FrameworkReference Include="Microsoft.AspNetCore.App" /></ItemGroup>
+<ItemGroup><ProjectReference Include="../JwtToken.Domain/JwtToken.Domain.csproj" /><ProjectReference Include="../JwtToken.Application/JwtToken.Application.csproj" /></ItemGroup>
+<ItemGroup><PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="10.0.13" PrivateAssets="all" /><PackageReference Include="Npgsql.EntityFrameworkCore.PostgreSQL" Version="10.0.3" /><PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="8.23.0" /></ItemGroup>
+</Project>
